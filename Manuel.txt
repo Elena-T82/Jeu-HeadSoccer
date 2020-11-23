@@ -1,0 +1,9 @@
+Pour déplacer le joueur 1 :
+	z : sauter
+	q : reculer
+	d : avancer
+
+Pour déplacer le joueur 2 :
+	flèche du haut : sauter
+	flèche de gauche : avancer
+	flèche de droite : reculer
